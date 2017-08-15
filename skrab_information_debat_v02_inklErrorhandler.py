@@ -82,7 +82,7 @@ def get_art_data(link):
 errors = []
 j = 1
 trin = 100
-startside = 300 # Nummer på første oversigtsside
+startside = 400 # Nummer på første oversigtsside
 slutside = 4101 # Nummer på den sidste (minus 'trin') oversigtsside
 index_list = list(np.arange(startside,slutside, step=trin))
 
