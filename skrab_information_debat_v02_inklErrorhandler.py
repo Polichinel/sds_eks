@@ -11,7 +11,7 @@ import re
 
 #%% Header
 session = requests.session()
-session.headers['emails'] = "tfj674@alumni.ku.dk, clj135@alumni.ku.dk"
+session.headers['emails'] = "fdz242@alumni.ku.dk, tfj674@alumni.ku.dk, clj135@alumni.ku.dk og xpn381@alumni.ku.dk"
 session.headers['names'] = "Elias, Niels, Julius og Simon"
 session.headers['description'] = "Til brug for eksamen i Social Data Science, KU (http://kurser.ku.dk/course/a%C3%98kk08216u/2016-2017)"
 #session.headers
