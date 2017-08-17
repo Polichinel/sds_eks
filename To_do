@@ -1,2 +1,17 @@
 To do:
++++ Makér punkterne med (DONE) når opgaven er klaret +++
 
+- Få fuldt data-set (fds) uploaded
+- Feature engn. på fds:
+    - Tid ind
+    - Få køn ind
+    - Få emner ind
+    - ...
+- Opload fds med nye features  og 'rengjort'   
+- Expl. diskriptiv statstik af fds (Elias)
+- Tokenazation og random samlpes af fds (Julius)
+- Codning af emner
+    - Niels (not done)
+    - Julius (not done)
+    - Elias
+    - Simon
